@@ -1,4 +1,4 @@
-(defproject rymndhng/logfmt "0.1.0-SNAPSHOT"
+(defproject rymndhng/logfmt "0.1.0"
   :description "logfmt output for Clojure"
   :url "https://github.com/rymndhng/logfmt"
   :license {:name "EPL-2.0"
