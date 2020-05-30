@@ -1,5 +1,7 @@
 # logfmt
 
+[![Clojars Project](https://img.shields.io/clojars/v/rymndhng/logfmt.svg)](https://clojars.org/rymndhng/logfmt)
+
 Generates logfmt encoded strings in Clojure.
 
 ## Why
